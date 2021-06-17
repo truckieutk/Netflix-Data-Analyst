@@ -1,4 +1,4 @@
-# Netflix-Data-Analyst
+# Netflix-Release-Data-Analyze
 
 A small project to analyze data about Netflix usage around the world, especially in Canada.
 
